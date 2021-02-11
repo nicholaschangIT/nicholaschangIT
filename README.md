@@ -1,9 +1,13 @@
 ### Hi there 👋 I'm Nicholas Chang
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+Tools and Languages 
+
+
+
 
 My Github Stats
 
