@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Nicholas Chang
 
 - 👨‍💻 I’m currently working on Cloud and Devops Technologies.
-- 📚 I’m currently learning everything about Azure technologies 😅
+- 📚 I’m currently learning everything about Azure services 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 
