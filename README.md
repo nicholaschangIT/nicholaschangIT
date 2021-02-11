@@ -3,10 +3,9 @@
 <!--
 **nicholaschangIT/nicholaschangIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/USERNAME"
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
 
 Here are some ideas to get you started:
 
